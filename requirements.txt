@@ -1,0 +1,13 @@
+langgraph
+langchain-core
+ollama
+transformers
+datasets
+peft
+trl
+unsloth[cu121]  # IMPORTANT: Use [cu121] for CUDA 12.1 or check your specific CUDA version
+accelerate
+torch
+diffusers
+streamlit
+Pillow
